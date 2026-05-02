@@ -128,8 +128,8 @@ Open `http://localhost:5173` in your web browser.
 
 Dipanshu Patidar
 
-GitHub: https://github.com/your-username
-Portfolio: https://your-portfolio-link
+GitHub: https://github.com/dipanshu2803
+
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
